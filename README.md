@@ -2,8 +2,8 @@
 
 ## About:
 
-Get ready for some thrilling problem-solving adventures! 👾🎮
-With this repository, I'll tackle real-world challenges like ticking clocks in documents, finding the perfect veggie dinner, and figuring out my coffee shop bill. Each challenge is its own exciting quest, giving me the chance to sharpen my JavaScript skills one step at a time!
+Get ready to set off on a wild journey filled with thrilling problem-solving challenges by my side! 👾🎮
+With this repository, I'll tackle real-world challenges like setting up a ticking clock in a document, filtering vegetarian dinner options from a menu, and calculating the bill from a trip to a coffee shop. Each challenge is its own exciting quest, giving me the chance to sharpen my JavaScript skills one step at a time!
 
 ## Three ways to run tests:
 
