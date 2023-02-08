@@ -1,9 +1,12 @@
 function vegetarianMenu(menu) {
   const menuNode = document.querySelector("#menu"); // id="menu" in index.html
+
+  // find all vegetarian options:
   const vegetarianOptions = menu.filter(
     (option) => option.isVegetarian === true
   );
 
+  // for each vege option, create a li element, fill the element with dish name, then append it to menuNode:
   vegetarianOptions.forEach((option) => {
     let dish = document.createElement("li");
     dish.textContent = option.name;
