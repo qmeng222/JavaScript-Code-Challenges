@@ -12,3 +12,5 @@ With this repository, I'll tackle real-world challenges like setting up a tickin
 3. or install the Code Runner extension to easily run JS code
 
 ## Notes:
+
+Check each challenge session for reference.
