@@ -34,3 +34,19 @@ const menu = [
 ];
 
 vegetarianMenu(menu);
+
+/*
+textContent vs. innerText:
+
+- textContent:
+  • returns the text content of an element and all its descendants, including hidden elements, comments, and spaces
+  • returns the raw text content, with no regard for style or layout
+- innerText:
+  • returns the visible text content of an element, ignoring hidden elements, comments, and spaces
+  • takes into account the style and layout of the element and its ancestors and returns only the text that would be visible to the user
+
+Property	     Includes descendants    Style and layout
+textContent		 Yes	                   No
+innerText		   No	                     Yes
+Note: both properties return a string, and both properties are read-only.
+ */
